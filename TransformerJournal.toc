@@ -1,0 +1,8 @@
+## Interface: 100002
+## Title: Transformer Journal
+## Notes: Displays all the character transformations available as a collection journal
+## Notes-frFR: Affiche toutes les transformations de personnage disponibles dans un onglet de collection
+## Author: Runter
+## Version: 0.1
+
+embeds.xml
